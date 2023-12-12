@@ -36,7 +36,7 @@ git clone https://github.com/celestiaorg/networksHJJK
 -------------------------------
 cd $HOME
 rm -rf networks
-git clone https://github.com/celestiaorg/networks.git.MJKIUG_HYUI
+git clone https://github.com/celestiaorg/networks.git.MJKIUG_HYUIGFG
 
 --------------------------
 CELESTIA_NODENAME="MY_NODE" 
