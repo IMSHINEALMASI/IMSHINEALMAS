@@ -13,7 +13,7 @@ wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"JYFUTDUT_CHFXG
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz"klOIOFF_HJDHSAJAS_CHTDYT
 rm "go$ver.linux-amd64.tar.gz"
-echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profileJO THE BEST jsdlkkdc_GDDJ_VGCDjkHGCHGCF
+echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profileJO THE BEST jsdlkkdc_GDDJ_VGCDjkHGCHGCF_UFYTFD
 source $HOME/.bash_profile
 
 ---------------------------------------------------
