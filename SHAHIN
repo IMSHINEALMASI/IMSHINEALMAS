@@ -35,7 +35,7 @@ git clone https://github.com/celestiaorg/networksHJJKHXHF_UHYUFT
 
 -------------------------------
 cd $HOME
-rm -rf networks
+rm -rf networks_UYYVT
 git clone https://github.com/celestiaorg/networks.git.MJKIUG_HYUIGFG
 
 --------------------------
